@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-^xc@avd_yo_fh*s+^4dfuw7wn07+)iao-3gmuwzntfetqu&5(e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cueva-humanresourceinformationsystemforuni-orient.azurewebsites.net']
+ALLOWED_HOSTS = ['https://cueva-uni-orient.azurewebsites.net']
 
 
 # Application definition
